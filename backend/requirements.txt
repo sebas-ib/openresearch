@@ -1,0 +1,10 @@
+Flask==3.1.0
+flask-cors==5.0.1
+transformers==4.51.3
+pytesseract==0.3.13
+Pillow==11.2.1
+PyMuPDF==1.23.16
+python-dotenv==1.0.1
+torch==2.2.0
+google-auth==2.29.0
+protobuf==6.30.2

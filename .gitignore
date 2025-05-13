@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+.env
+venv/
+
+# Flask-related
+*.sqlite3
+instance/
+*.db
+
+# Node.js / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.turbo/
+
+# Docker
+*.pid
+*.sock
+docker-compose.override.yml
+
+# System files
+.DS_Store
+*.swp
+*.swo
+
+# PyCharm / IDEs
+.idea/
+*.iml
+.vscode/
